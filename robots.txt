@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://franciscoacosta-bot.github.io/pagina-web-icc/sitemap.xml
